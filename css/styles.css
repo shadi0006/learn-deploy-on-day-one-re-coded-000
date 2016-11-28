@@ -466,3 +466,12 @@ a:visited {
 .clearfix:after {
     clear: both;
 }
+
+
+#shadi-khaled-card {
+  background-image: url("../assets/img/shadi-khaled.jpg");
+}
+
+#shadi-khaled-cover{
+  background-image: url("../assets/img/shadi-khaled-cover.jpg");
+}
